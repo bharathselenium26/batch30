@@ -2,7 +2,7 @@ package practice;
 
 public class AbcTest {
 	public void newpractice() {
-	System.out.println("My new test")
+	System.out.println("New test by swetha");
 	}
 	
 	public void bharath() {
