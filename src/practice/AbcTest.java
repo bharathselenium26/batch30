@@ -5,4 +5,7 @@ public class AbcTest {
 	System.out.println("My new test")
 	}
 	
+	public void bharath() {
+		System.out.println("I am bharath");
+	}
 }
