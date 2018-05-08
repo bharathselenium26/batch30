@@ -9,6 +9,5 @@ public class BB extends A{
 	public static void main(String[] args) {
 		BB b = new BB();
 		b.useAmeth1();
-		
 	}
 }
