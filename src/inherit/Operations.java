@@ -5,7 +5,7 @@ public class Operations {
 	
 	public static void main(String[] args) {
 		
-		Cat ca = new Cat();
+	/*	Cat ca = new Cat();
 		ca.drink();
 		ca.eat();
 		ca.legs();
@@ -29,5 +29,12 @@ public class Operations {
 		cc.testc();
 		cc.useAmeth1();
 		cc.getName();
+		*/
+		
+		Deer d = new Deer();
+		d.eat();
+		d.beautiful();
+		d.legs();
+		d.sleep();
 	}
 }
