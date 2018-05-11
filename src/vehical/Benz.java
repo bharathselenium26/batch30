@@ -21,4 +21,5 @@ public class Benz implements Car{
 	public void ballons() {
 		System.out.println("6 ballons");
 	}
+	
 }
