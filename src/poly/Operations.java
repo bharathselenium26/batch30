@@ -2,6 +2,11 @@ package poly;
 
 public class Operations {
 
+	public Operations() {
+		
+	}
+	
+	
 	public static void main(String[] args) {
 		
 		Maruthi ma = new Maruthi();
